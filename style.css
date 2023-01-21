@@ -1,0 +1,86 @@
+#home
+{
+    color:rgb(56, 56, 145);
+    height: 700px;
+    background-color:#EEF1FF;
+}
+
+#about
+{
+    margin-top: 0;
+  height: 380px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: large;
+  line-height: 2;
+  text-align: center;
+  background-color: #B1B2FF;
+  padding: 20px 15px 20px;
+}
+
+#about h2{
+    margin-bottom: 0;
+}
+
+#contact
+{
+    height: 430px;
+    font-family: 'Montserrat', sans-serif;
+    background-color:#EEF1FF ;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.navbar
+{
+    background-color: #B1B2FF;
+}
+
+.nav-item
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:700;
+  font-size: 20px;
+  margin-left: 25px;
+}
+
+.transferIMG
+{
+    position: absolute;
+    width: 700px;
+    height: 550px;
+    right: 0;
+    top: 100px;
+
+}
+
+.caption
+{
+    position: absolute;
+    left: 70px;
+    right: 700px;
+    bottom: 300px;
+    width: 750px;
+    margin-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.contactHeading
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+label
+{
+   font-size: 15px;
+   position: absolute;
+   left: 550px;
+}
+
+.form{
+    width: 300px;
+    position: absolute;
+    left:670px;
+    border-radius: 3px;
+}
+
